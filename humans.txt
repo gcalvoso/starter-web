@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Giovanna Calvoso gmfcalvoso@gmail.com 
 
 # THANKS
 
