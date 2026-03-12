@@ -16,3 +16,7 @@ Modifying
 ## Adding Mods
 
 Ok, I dont know what else to insert here.
+
+### Copyright
+
+2026 Git.Training
