@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 More things.
 More
 More more more. More! Things. Adding a line here. Rebasing.
+More changes from myfeature branch too.
 
 ## Purpose
 
